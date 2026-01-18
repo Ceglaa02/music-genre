@@ -1,3 +1,4 @@
 ./lib/*
 .idea
 /lib/gtzan-dataset-music-genre-classification/
+/lib/test-wav/
